@@ -1,2 +1,2 @@
 # simon-game
-It is simon game app. User have to press buttons that lit up during the game.
+In this game, the device has four colored buttons, each producing a particular tone when it is pressed or activated by the device. A round in the game consists of the device lighting up one or more buttons in a random order, after which the player must reproduce that order by pressing the buttons. As the game progresses, the number of buttons to be pressed increases. If user completes 20th level then he/she is declared winner. 
